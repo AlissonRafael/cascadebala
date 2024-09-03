@@ -29,7 +29,7 @@ let perguntaAtual;
  function mostraPergunta(){
  perguntaAtual = perguntas[atual];
 
- caixaPergunta.textContent = perguntaAtual.enunciado;
+ caixaPerguntas.textContent = perguntaAtual.enunciado;
 
  }
 
